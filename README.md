@@ -71,3 +71,12 @@
 </div>
 
 <br/>
+
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=Manish-11315&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
