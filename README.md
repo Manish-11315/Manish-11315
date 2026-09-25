@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+responsive%2C+cross-platform+apps+with+Flutter;Android+native+development+with+Kotlin+%26+Jetpack;Exploring+real-time+systems+with+Socket.io;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Flutter+dev+%E2%80%94+cross-platform+apps;Native+Android+with+Kotlin+%26+Jetpack;Real-time+systems+with+Socket.io;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 </div>
 
@@ -51,7 +51,7 @@
 | 🏥 [**Medi-APP-B2B**](https://github.com/Manish-11315/Manish-11315-Medi-APP-B2B) | B2B medical application | Kotlin          |
 | 🎨 [**Figma-UI-Test**](https://github.com/Manish-11315/Figma-UI-Test) | Figma-to-Flutter UI experiments | Dart            |
 | 🔌 [**API-Data-Fetch**](https://github.com/Manish-11315/API-Data-Fetch) | API data fetching practice | Kotlin          |
-| ✂️ [**Swift-Slice**](https://github.com/Manish-11315/Swift-Slice) | Web UI experiment | Dart            |
+| ✂️ [**Swift-Slice**](https://github.com/Manish-11315/Swift-Slice) | Web UI experiment | HTML            |
 
 </div>
 
@@ -68,14 +68,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-11315&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manish-11315&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <br/>
