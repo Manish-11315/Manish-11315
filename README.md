@@ -72,10 +72,10 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📅 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Manish-11315/Manish-11315/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/58A6FF/Manish-11315" width="100%"/>
 </div>
 
 <br/>
