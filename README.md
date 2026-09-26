@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hii+I+%E2%80%94+am+Manish;Flutter+dev+%E2%80%94+cross-platform+apps;Native+Android+with+Kotlin+%26+Jetpack;Real-time+systems+with+Socket.io;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hii+I+am+Manish;Flutter+dev+%E2%80%94+cross-platform+apps;Native+Android+with+Kotlin+%26+Jetpack;Real-time+systems+with+Socket.io;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 </div>
 
