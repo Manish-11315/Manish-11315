@@ -51,7 +51,7 @@
 | 🏥 [**Medi-APP-B2B**](https://github.com/Manish-11315/Manish-11315-Medi-APP-B2B) | B2B medical application | Kotlin          |
 | 🎨 [**Figma-UI-Test**](https://github.com/Manish-11315/Figma-UI-Test) | Figma-to-Flutter UI experiments | Dart            |
 | 🔌 [**API-Data-Fetch**](https://github.com/Manish-11315/API-Data-Fetch) | API data fetching practice | Kotlin          |
-| ✂️ [**Swift-Slice**](https://github.com/Manish-11315/Swift-Slice) | Web UI experiment | HTML            |
+| ✂️ [**Swift-Slice**](https://github.com/Manish-11315/Swift-Slice) | Web UI experiment | Dart            |
 
 </div>
 
